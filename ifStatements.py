@@ -11,8 +11,8 @@ class ifStatements():
         return number > 10
 
     @staticmethod
-    def _is_smaller(target, number):
-        return number < target
+    def _is_smaller(target, attempt):
+        return attempt < target
 
     @staticmethod
     def _get_range_hint(symbol):
@@ -27,8 +27,8 @@ class ifStatements():
         print()
 
     @staticmethod
-    def _is_lower(input, target):
-        return input < target
+    def _is_lower(attempt, target):
+        return attempt < target
 
     def _getting_hints(self, hint_symbol, target):
         if self._get_range_hint(hint_symbol):

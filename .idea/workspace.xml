@@ -4,7 +4,6 @@
     <list default="true" id="c1689da4-4dbd-4b32-9c11-413e99a26f06" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ifStatements.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifStatements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifStatementsTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifStatementsTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,14 +23,14 @@
     <SUITE FILE_PATH="coverage/ifStatments$Unittests_for_ifStatementsTest_TestIfStatement_test_getting_hints.coverage" NAME="Unittests for ifStatementsTest.TestIfStatement.test_getting_hints Coverage Results" MODIFIED="1531798703046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.46494466">
+    <splitter split-orientation="horizontal" split-proportion="0.46771216">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="ifStatements.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ifStatements.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="386">
-                  <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+                <state relative-caret-position="187">
+                  <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
                 </state>
               </provider>
             </entry>
@@ -43,7 +42,7 @@
           <file leaf-file-name="ifStatementsTest.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="415">
+                <state relative-caret-position="537">
                   <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
                   <folding>
                     <element signature="e#0#15#0" expanded="true" />
@@ -69,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ifStatements.py" />
         <option value="$PROJECT_DIR$/ifStatementsTest.py" />
+        <option value="$PROJECT_DIR$/ifStatements.py" />
       </list>
     </option>
   </component>
@@ -230,6 +229,14 @@
       <option name="presentableId" value="Default" />
       <updated>1530473879721</updated>
     </task>
+    <task id="LOCAL-00001" summary="The program works, need to got back and fix any code smells">
+      <created>1531861897125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531861897125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -266,11 +273,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -295,6 +303,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The program works, need to got back and fix any code smells" />
+    <option name="LAST_COMMIT_MESSAGE" value="The program works, need to got back and fix any code smells" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,7 +415,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
+        <state relative-caret-position="537">
           <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -413,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ifStatements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+        <state relative-caret-position="187">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>

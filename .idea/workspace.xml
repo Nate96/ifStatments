@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1689da4-4dbd-4b32-9c11-413e99a26f06" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifStatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifStatementsTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifStatements.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifStatements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifStatementsTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifStatementsTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,25 +14,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ifStatments$ifStatements.coverage" NAME="ifStatements Coverage Results" MODIFIED="1530474166228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ifStatments$Unittests_for_ifStatementsTest_TestIfStatement_test_isEvent.coverage" NAME="Unittests for ifStatementsTest.TestIfStatement.test_isEvent Coverage Results" MODIFIED="1531494726836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ifStatments$Unittests_for_ifStatementsTest_TestIfStatement_test_is_smaller.coverage" NAME="Unittests for ifStatementsTest.TestIfStatement.test_is_smaller Coverage Results" MODIFIED="1531497231039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ifStatments$Unittests_for_ifStatementsTest_TestIfStatement_test_get_even_or_odd_hint.coverage" NAME="Unittests for ifStatementsTest.TestIfStatement.test_get_even_or_odd_hint Coverage Results" MODIFIED="1531497983483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ifStatments$Unittests_for_ifStatementsTest_TestIfStatement_test_get_range_hint.coverage" NAME="Unittests for ifStatementsTest.TestIfStatement.test_get_range_hint Coverage Results" MODIFIED="1531774195981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ifStatments$ifStatements.coverage" NAME="ifStatements Coverage Results" MODIFIED="1531861764596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ifStatments$Unittests_for_ifStatementsTest_TestIfStatement_test_guessing_number.coverage" NAME="Unittests for ifStatementsTest.TestIfStatement.test_guessing_number Coverage Results" MODIFIED="1531861760389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ifStatments$Unittests_for_ifStatementsTest_TestIfStatement_test_is_greater_than_ten.coverage" NAME="Unittests for ifStatementsTest.TestIfStatement.test_is_greater_than_ten Coverage Results" MODIFIED="1531496086793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ifStatments$Unittests_for_ifStatementsTest_TestIfStatement_test_getting_hints.coverage" NAME="Unittests for ifStatementsTest.TestIfStatement.test_getting_hints Coverage Results" MODIFIED="1531798703046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ifStatements.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ifStatements.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ifStatementsTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.46494466">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ifStatements.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ifStatements.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="386">
+                  <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ifStatementsTest.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="415">
+                  <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,8 +69,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ifStatementsTest.py" />
         <option value="$PROJECT_DIR$/ifStatements.py" />
+        <option value="$PROJECT_DIR$/ifStatementsTest.py" />
       </list>
     </option>
   </component>
@@ -104,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ifStatements">
     <configuration name="ifStatements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ifStatments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,9 +146,76 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_get_even_or_odd_hint" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ifStatments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ifStatementsTest.TestIfStatement.test_get_even_or_odd_hint&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_get_range_hint" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ifStatments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ifStatementsTest.TestIfStatement.test_get_range_hint&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_getting_hints" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ifStatments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ifStatementsTest.TestIfStatement.test_getting_hints&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_guessing_number" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ifStatments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ifStatementsTest.TestIfStatement.test_guessing_number&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for ifStatementsTest.TestIfStatement.test_get_range_hint" />
+      <item itemvalue="Python tests.Unittests for ifStatementsTest.TestIfStatement.test_get_even_or_odd_hint" />
+      <item itemvalue="Python.ifStatements" />
+      <item itemvalue="Python tests.Unittests for ifStatementsTest.TestIfStatement.test_guessing_number" />
+      <item itemvalue="Python tests.Unittests for ifStatementsTest.TestIfStatement.test_getting_hints" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.ifStatements" />
+        <item itemvalue="Python tests.Unittests for ifStatementsTest.TestIfStatement.test_guessing_number" />
+        <item itemvalue="Python tests.Unittests for ifStatementsTest.TestIfStatement.test_getting_hints" />
+        <item itemvalue="Python tests.Unittests for ifStatementsTest.TestIfStatement.test_get_range_hint" />
+        <item itemvalue="Python tests.Unittests for ifStatementsTest.TestIfStatement.test_get_even_or_odd_hint" />
       </list>
     </recent_temporary>
   </component>
@@ -143,31 +232,62 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_getting_hints - 2018.07.16 at 16h 45m 20s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_getting_hints" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_getting_hints - 2018.07.16 at 16h 51m 40s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_getting_hints" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_getting_hints - 2018.07.16 at 16h 52m 26s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_getting_hints" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_getting_hints - 2018.07.16 at 16h 52m 51s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_getting_hints" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_getting_hints - 2018.07.16 at 22h 38m 26s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_getting_hints" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_guessing_number - 2018.07.17 at 15h 38m 41s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_guessing_number" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_guessing_number - 2018.07.17 at 15h 59m 53s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_guessing_number" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_guessing_number - 2018.07.17 at 16h 00m 16s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_guessing_number" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_guessing_number - 2018.07.17 at 16h 09m 11s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_guessing_number" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ifStatementsTest_TestIfStatement_test_guessing_number - 2018.07.17 at 16h 09m 20s.xml">
+      <configuration name="Unittests for ifStatementsTest.TestIfStatement.test_guessing_number" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1515625" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.153125" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28125" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,14 +296,125 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ifStatements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="14" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ifStatements.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="394" selection-start-line="394" selection-end-line="394" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatementsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifStatements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
         </state>
       </provider>
     </entry>

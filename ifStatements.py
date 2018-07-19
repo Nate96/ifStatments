@@ -20,7 +20,7 @@ class ifStatements():
 
     @staticmethod
     def _get_even_or_odd_hint(symbol):
-        return symbol == "e" or symbol == "E"
+        return symbol == 'o' or symbol == 'O'
 
     @staticmethod
     def _give_instructions():
@@ -60,7 +60,7 @@ class ifStatements():
         target = random.randint(1, 21)
         attempt = raw_input("Guess a number: ")
 
-        while attempt != -1:
+        while attempt != 'e' or attempt != 'E':
             if self._getting_hints(str(attempt), target):
                 self._guessing_numbers(int(attempt), int(target))
             attempt = raw_input("Guess a number: ")

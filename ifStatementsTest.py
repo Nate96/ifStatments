@@ -44,8 +44,8 @@ class TestIfStatement(unittest.TestCase):
         self.ifStatements._getting_hints(1, 15)
 
     def test_get_even_or_odd_hint(self):
-        self.assertTrue(self.ifStatements._get_even_or_odd_hint('e'))
-        self.assertTrue(self.ifStatements._get_even_or_odd_hint('E'))
+        self.assertTrue(self.ifStatements._get_even_or_odd_hint('o'))
+        self.assertTrue(self.ifStatements._get_even_or_odd_hint('O'))
 
         self.assertFalse(self.ifStatements._get_even_or_odd_hint('h'))
         self.assertFalse(self.ifStatements._get_even_or_odd_hint('H'))

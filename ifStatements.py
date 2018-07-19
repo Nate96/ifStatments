@@ -62,7 +62,7 @@ class ifStatements():
 
         while attempt != 'e' or attempt != 'E':
             if self._getting_hints(str(attempt), target):
-                self._guessing_numbers(int(attempt), int(target))
+                self._guessing_numbers(int(attempt), target)
             attempt = raw_input("Guess a number: ")
 
 

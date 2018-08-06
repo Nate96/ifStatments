@@ -30,6 +30,13 @@ class TestIfStatement(unittest.TestCase):
         self.assertFalse(ifStatements._get_range_hint('h'))
         self.assertFalse(ifStatements._get_range_hint('H'))
 
+    def test_if_exit(self):
+        self.assertTrue(ifStatements._if_exit('e'))
+        self.assertTrue(ifStatements._if_exit('E'))
+
+        self.assertFalse(ifStatements._if_exit('h'))
+        self.assertFalse(ifStatements._if_exit('H'))
+
     def test_getting_hints(self):
         ifStatements._getting_hints('r', 15)
         ifStatements._getting_hints('R', 5)
